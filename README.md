@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=HAON'github%20&fontSize=90)
 
+![haon-wuchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=haon-wuchang&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haon-wuchang&langs_count=5&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **haon-wuchang/haon-wuchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
